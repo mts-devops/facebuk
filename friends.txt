@@ -5,4 +5,5 @@ soma
 mama
 bima
 vima
-this file is updated 
+this file is updated
+kums
