@@ -1,1 +1,2 @@
 this is a normal text file
+this name is updated
