@@ -1,2 +1,4 @@
 this is a normal text file
 testing cherry-pick command
+this name is updated
+
